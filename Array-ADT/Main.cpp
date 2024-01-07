@@ -80,5 +80,6 @@ int main(int argc, char const *argv[])
     {
         printf("%d ", p[i]);
     }
+    cout << "Bye!";
     return 0;
 }
